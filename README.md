@@ -1,7 +1,6 @@
-# 📘 RECIPE MANAGEMENT SYSTEM
+# 🍰 RECIPE MANAGEMENT SYSTEM
 
-* A console-based application to manage and organize your favorite recipes efficiently.
-* A Clean,Console-Based Java Application for Managing Recipes Using Hibernate JPA and PostgreSQL.
+*A Clean, Console-Based Java Application for Managing Recipes Using Hibernate JPA and PostgreSQL.
 
 ---
 
