@@ -2,7 +2,6 @@
 
 *A Clean, Console-Based Java Application for Managing Recipes Using Hibernate JPA and PostgreSQL.
 *A console-based application to manage and organize your favorite recipes efficiently.
----
 
  🚀 Features
 
