@@ -27,15 +27,7 @@
 
  🗂️ Project Structure
  
-RecipeManagementSystem/
-├── pom.xml
-├── src/
-│   ├── main/
-│   │   ├── java/com/recipe/
-│   │   │   ├── config/JPAUtil.java
-│   │   │   ├── dao/{RecipeDAO.java, IngredientDAO.java}
-│   │   │   ├── model/{Recipe.java, Ingredient.java, Main.java}
-│   │   └── resources/META-INF/persistence.xml
+<pre> RecipeManagementSystem/ ├── pom.xml ├── src/ │ ├── main/ │ │ ├── java/com/recipe/ │ │ │ ├── config/ │ │ │ │ └── JPAUtil.java │ │ │ ├── dao/ │ │ │ │ ├── RecipeDAO.java │ │ │ │ └── IngredientDAO.java │ │ │ └── model/ │ │ │ ├── Recipe.java │ │ │ ├── Ingredient.java │ │ │ └── Main.java │ │ └── resources/ │ │ └── META-INF/ │ │ └── persistence.xml └── target/ </pre>
 
  ## Database Table Schema
 
