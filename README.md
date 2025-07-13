@@ -27,7 +27,7 @@
 
  🗂️ Project Structure
  
-<pre> RecipeManagementSystem/ ├── pom.xml ├── src/ │ ├── main/ │ │ ├── java/com/recipe/ │ │ │ ├── config/ │ │ │ │ └── JPAUtil.java │ │ │ ├── dao/ │ │ │ │ ├── RecipeDAO.java │ │ │ │ └── IngredientDAO.java │ │ │ └── model/ │ │ │ ├── Recipe.java │ │ │ ├── Ingredient.java │ │ │ └── Main.java │ │ └── resources/ │ │ └── META-INF/ │ │ └── persistence.xml └── target/ </pre>
+ <img width="454" height="379" alt="Image" src="https://github.com/user-attachments/assets/218dae63-d9df-4d0e-bb36-3926b0b6b825" />
 
  ## Database Table Schema
 
