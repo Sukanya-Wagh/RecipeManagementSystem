@@ -27,7 +27,42 @@
 
  🗂️ Project Structure
  
- <img width="454" height="379" alt="Image" src="https://github.com/user-attachments/assets/218dae63-d9df-4d0e-bb36-3926b0b6b825" />
+### 📁 Project Folder Structure
+
+```
+RecipeManagementSystem/
+│
+├── pom.xml
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── recipe/
+│   │   │           ├── config/
+│   │   │           │   └── JPAUtil.java
+│   │   │           │
+│   │   │           ├── dao/
+│   │   │           │   ├── IngredientDAO.java
+│   │   │           │   └── RecipeDAO.java
+│   │   │           │
+│   │   │           └── model/
+│   │   │               ├── Ingredient.java
+│   │   │               ├── Recipe.java
+│   │   │               └── Main.java
+│   │   │
+│   │   └── resources/
+│   │       └── META-INF/
+│   │           └── persistence.xml
+│   │
+│   └── test/
+│       ├── java/
+│       └── resources/
+│
+└── target/
+```
+
+
 
  ## Database Table Schema
 
