@@ -25,9 +25,7 @@
 
 ---
 
- 🗂️ Project Structure
- 
-### 📁 Project Folder Structure
+# 🗂️ Project Structure
 
 ```
 RecipeManagementSystem/
